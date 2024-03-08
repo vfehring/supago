@@ -1,6 +1,6 @@
 # Supago
 
-Unofficial [Supabase](https://supabase.com) client in Go.
+Unofficial [Supabase](https://supabase.com) client in Go. Currently supports Auth and DB. Realtime, Storage, and Testing coming soon.
 
 ## Installation
 ```
@@ -36,9 +36,3 @@ func main() {
 }
 ```
 
-## Roadmap
-- [x] Auth Support
-- [x] DB Support
-- [ ] Realtime
-- [ ] Storage
-- [ ] Testing
